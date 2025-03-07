@@ -20,7 +20,6 @@ This repository contains a simple Python script that converts a decimal number i
    ```bash
    python main.py
    ```
-   Replace `<script_name>.py` with the actual file name containing the code.
 
 4. **Follow the Prompt:**
    - When prompted, enter a decimal number.
