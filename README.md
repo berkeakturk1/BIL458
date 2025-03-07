@@ -10,15 +10,15 @@ This repository contains a simple Python script that converts a decimal number i
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone BIL458
    ```
 2. **Navigate to the Repository Folder:**
    ```bash
-   cd <repository-folder>
+   cd BIL458-HW
    ```
 3. **Run the Script:**
    ```bash
-   python <script_name>.py
+   python main.py
    ```
    Replace `<script_name>.py` with the actual file name containing the code.
 
@@ -40,21 +40,11 @@ This repository contains a simple Python script that converts a decimal number i
 - **Output:**  
   The octal number is printed to the console.
 
-## Git and Commit Guidelines
 
-- **Branch:**  
-  Ensure you are working on the **develop** branch.
 
-- **Commit Message:**  
-  Every commit must use your name and surname as the commit message (e.g., "John Doe").
 
-- **Submission:**  
-  After completing the assignment, submit your GitHub repository URL via [oys2.baskent.edu.tr](https://oys2.baskent.edu.tr).
 
-## Additional Information
 
-- Any further details or specific instructions related to the assignment can be added here.
-- For example, you might include a section on troubleshooting, FAQs, or additional features if required.
 
 
 
